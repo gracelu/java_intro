@@ -1,5 +1,5 @@
 # java_intro
-===================
+
 Short intro to programming with Java
 ===================
 ##Running Java
@@ -15,3 +15,10 @@ Java on Mac: http://www.cs.princeton.edu/courses/archive/spr04/cos126/hello/mac.
 Java compiling environment: Eclipse (https://eclipse.org/downloads/packages/eclipse-ide-eclipse-committers-441/lunasr1)
 
 ##Hello, World!
+
+public class HelloWorld{
+     public static void main(String []args){
+        System.out.println("Hello, World!");
+     }
+}
+
