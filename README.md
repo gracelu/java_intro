@@ -1,6 +1,6 @@
 # java_intro
 
-Short intro to programming with Java
+Short intro workshop to programming with Java
 ===================
 ##Running Java
 
