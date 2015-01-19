@@ -39,7 +39,7 @@ public class HelloWorld{
 ##Pet Classes
 Follow files in repository (Pet, Dog, TestPet) to create classes and play with objects in Java. The files also include some inheritance with Dog and Pet as the Dog class uses the Pet class but overrides the printpet() function to print something similar but altered.
 
-##General Java Tutorials
+##General Java Tutorials 
 http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html
 http://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html
 
