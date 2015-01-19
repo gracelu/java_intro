@@ -22,6 +22,20 @@ public class HelloWorld{
      }
 }
 
+##Command Line Input
+
+import java.io.Console;
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        
+        Console c = System.console();
+        String login = c.readLine("Repeat after me: ");
+        System.out.println(login);
+     }
+}
+
 ##Pet Classes
 Follow files in repository (Pet, Dog, TestPet) to create classes and play with objects in Java. The files also include some inheritance with Dog and Pet as the Dog class uses the Pet class but overrides the printpet() function to print something similar but altered.
 
